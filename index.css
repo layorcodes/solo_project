@@ -9,7 +9,7 @@ body {
 }
 
 .hero {
-    background-image: url(monrovia.jpg);
+    background-image: url(images/aerial_view.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     text-shadow: 0px 0px 5px black;
